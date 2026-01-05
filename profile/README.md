@@ -90,9 +90,6 @@
 ## ◈ Contact
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Inquiries-contact@carlton--tech.com-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" alt="Email"/>
-
 <br/><br/>
 
 ```
