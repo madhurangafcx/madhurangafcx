@@ -110,10 +110,6 @@ Unauthorized access is prohibited.
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/© 2024-CARLTON--TECH-0D1117?style=flat-square&labelColor=0D1117"/>
-  
-  <br/><br/>
-  
   <sub>
     <code>Building secure, scalable solutions.</code>
   </sub>
