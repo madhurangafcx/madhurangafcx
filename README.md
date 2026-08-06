@@ -1,99 +1,27 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header"/>
-</div>
+# Hi, I'm Pasan 
 
-<br/>
+> Building secure, scalable software infrastructure.
 
-<div align="center">
-  
-  <br/><br/>
-  
-  <!-- Tagline -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Engineering+Tomorrow's+Infrastructure" alt="Tagline"/>
+## What I Build
 
-</div>
+- Distributed Systems
+- Custom Blockchains
+- Smart Contracts
+- Enterprise Backend Services
+- Cloud Infrastructure
+- AI & ML Solutions
 
-<br/>
+## Areas of Expertise
 
-<!-- Minimal Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+- **Backend & Cloud:** Go, Rust, Python, TypeScript, Node.js, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, GCP, AI-assisted engineering, development
+- **Blockchain:** Solidity, ink!, Substrate, Cosmos SDK
+- **Zero-Knowledge:** Circom, Zero-Knowledge Proofs (ZKPs)
+- **Security:** Secure SDLC (ISO/IEC 27001 Annex A 8.25), Secure Architecture, Threat Modeling
 
-<br/>
+## Engineering Principles
 
-<div align="center">
-
-```
-█▀▀ █▀█ █▀▄ █ █▄ █ █▀▀   ▀█▀ █ █ █▀▀   █▀▀ █ █ ▀█▀ █ █ █▀█ █▀▀
-█▄▄ █▄█ █▄▀ █ █ ▀█ █▄█    █  █▀█ ██▄   █▀  █▄█  █  █▄█ █▀▄ ██▄
-```
-
-</div>
-
-<br/>
-
-## ◈ What We Build
-
-<div align="center">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| `Distributed Systems` | `Custom Blockchains` | `Smart Contracts` |
-| `Enterprise Backends` | `Cloud Architecture` | `ML Solutions` |
-
-</div>
-
-<br/>
-
-<!-- Minimal Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-## ◈ Tech Stack
-
-<div align="center">
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,rust,solidity,react,nextjs,nodejs,postgres,redis,kafka,docker,kubernetes,aws,gcp&theme=dark&perline=7" alt="Tech Stack"/>
-  </a>
-
-</div>
-
-<br/>
-
-<!-- Minimal Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-## ◈ Principles
-
-<div align="center">
-
-```diff
-+ Security First
-+ Scalable by Design  
-+ Code Quality > Speed
-+ Documentation Matters
-```
-
-</div>
-
-<br/>
-
-<!-- Minimal Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-<div align="center">
-  <sub>
-    <code>Building secure, scalable solutions.</code>
-  </sub>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=footer"/>
+- Security First
+- Scalability by Design
+- Maintainability over Complexity
+- Quality over Speed
+- Documentation Matters
