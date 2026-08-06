@@ -13,11 +13,15 @@
 
 ## Areas of Expertise
 
-- **Backend & Cloud:** Go, Rust, Python, TypeScript, Node.js, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, GCP, AI-assisted engineering, development
+- **Backend Engineering:** Go, Rust, Python, TypeScript, Node.js
+- **Cloud & DevOps:** Docker, Kubernetes, CI/CD, AWS, GCP, Linux
 - **Blockchain:** Solidity, ink!, Substrate, Cosmos SDK
 - **Zero-Knowledge:** Circom, Zero-Knowledge Proofs (ZKPs)
-- **Security:** Secure SDLC (ISO/IEC 27001 Annex A 8.25), Secure Architecture, Threat Modeling
-
+- **SQL Databases:** PostgreSQL, Supabase
+- **NoSQL Databases:** Redis, MongoDB
+- **Messaging:** Kafka, RabitMQ
+- **Security:** Secure SDLC (ISO/IEC 27001:2022 Annex A 8.25), Secure Architecture, Threat Modeling
+  
 ## Engineering Principles
 
 - Security First
